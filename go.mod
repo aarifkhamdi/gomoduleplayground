@@ -1,7 +1,5 @@
 module github.com/aarifkhamdi/gomoduleplayground
 
-retract [v0.0.0, v10.0.0]
-
-retract [v0.0.0-00000000000000-000000000000, v10.0.0-99999999999999-zzzzzzzzzzzz]
+retract [v0.0.0, v1.7.0]
 
 go 1.24.0
