@@ -1,6 +1,8 @@
 module github.com/aarifkhamdi/gomoduleplayground/v2
 
-retract [v2.0.0, v2.4.3]
+retract [v2.0.0, v2.4.4]
+
+retract v2.0.0-20250224182752-c596c52cc17f
 
 retract [v2.0.0-00000000000000-000000000000, v2.4.3-99999999999999-zzzzzzzzzzzz]
 
